@@ -1,0 +1,53 @@
+html {
+    background-color: #232323;
+}
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: 'Jost', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  section {
+    box-shadow: 0 2px 8px rgba(255, 255, 255, 0.185);
+    margin: rem;
+    border-radius: px;
+    padding: 1rem;
+   
+  }
+  
+  #topRow { 
+    text-align: center;
+  }
+
+  #bottomRow {
+    text-align: left;
+  }
+
+  
+  #textBox{
+    height: 400px;
+    width: 600px;
+    margin-top: 50px;
+    padding-top: 100px;
+    align-self: left;  
+    border-radius: 25px;
+    
+  }
+
+
+#imageChest{
+    height: 400px;
+    width: 600px;
+    padding-right: 25px;
+}
+
+#imageAlt{
+    height: 400px;
+    width: 600px; 
+}
